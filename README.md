@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080c14,30:0d1221,60:0f2744,100:1a3a5c&height=260&section=header&text=Pankaj%20Dixit&fontSize=72&fontColor=00d4ff&fontAlignY=42&desc=DevOps%20Engineer%20%7C%20Cloud%20%26%20Automation&descSize=18&descAlignY=63&descColor=7aa2c8&animation=twinkling&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="banner.png" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=45&lines=DevOps+Engineer+%E2%9A%99%EF%B8%8F;Currently+%40+Pinnacle+Teleservices+%F0%9F%8F%A2;Docker+%7C+Kubernetes+%7C+Jenkins+%7C+AWS+%E2%98%81%EF%B8%8F;Automating+Everything+%7C+CI%2FCD+Pipelines+%F0%9F%9A%80;Infrastructure+as+Code+%7C+Linux+%F0%9F%90%A7" alt="Typing SVG" />
@@ -141,6 +141,6 @@ passion    : "Automation, reliability & scalable infrastructure"
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1a3a5c,50:0f2744,100:080c14&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=28&fontColor=00d4ff&fontAlignY=65&animation=twinkling&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:0f2744,100:080c14&height=140&section=footer&text=Thanks%20for%20visiting!%20%E2%AD%90&fontSize=28&fontColor=00d4ff&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
